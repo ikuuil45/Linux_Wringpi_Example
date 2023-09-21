@@ -6,9 +6,14 @@ https://github.com/WiringPi/WiringPi  //SDK 源码SDK 动态库
 
 B.Example
 1）Key interpet //已经完善
+
 2）MPU6050 Example 数据终端读取 //已经完善
+
 3）RGB Example //已经完善 中断 轮询 多进程
-4）SSD1306 OLED刷新视频基于IIC //以及完善
+
+4）SSD1306 显示字符矩阵基本驱动
+
+5）SSD1306 OLED刷新视频基于IIC //以及完善
 
 
 
